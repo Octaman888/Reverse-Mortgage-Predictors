@@ -1,1 +1,28 @@
-# Reverse-Mortgage-Predictors
+Reverse Mortgages (RM), now relatively recently heavily regulated by government, are a financial tool used by ever more people as a tool to "retire in place". Helping people live in their homes for longer periods of time; and RM are becoming an ever more important financial tool among many retirees to better help fund their golden years.
+As such, it behooves the loan industry to position themselves to create a win-win by knowing where and when to focus their endeavors so as to maximise their position in this coming avalanche of loan applications as predicted by the following examples via colab and Tableau. Americans continue to build their largest equity source and safety net via their homes at an increasing rate.
+
+Reverse Mortgages (RM) Predictors =
+
+A person must be 62 years of age to qualify for a RM
+
+RM are about %.2 of all mortgages in 2020 loan applications indicating a huge coming bubble based on Aging Population and increased RM loan size among the 55-64 age group. In particular the 62-64 proup, also this indicates increased home equity size in the up and coming qualifiers
+
+Trend prediction = upward home price as you add younger eligible persons , the 55-64 group (62) as compared to the 64-74 age group alone is a strong predictor of coming Quantity and $ amount of upcoming RM.
+
+Debt to income ratio does not seem to effect RM prediction.
+
+income does not seem to predict RM.
+
+Existing RM are on lower end of price spectrum < $250k and increasing in $ as new persons reach age 62 (see line 8)
+
+Tableau findings/indications/demonstrations verified by P values in Logistic regression model in showing the relevant influential categorical informational aspects(see coloab informational coding).
+
+RM accounted for %.2 of all mortgages for 2020 in Bexar County, indicating huge untapped potential in now and in coming years as baby boomer population continues to  reach the age of 62.
+
+Key for Tableau RM Filter
+CNTD RM 
+1= not RM
+2= NA
+3= RM
+
+This data processing via Tableau and colab (attached), are the predictive tools at your disposal which cleary show that the quantity, and dollar amount per application is on a strong upward trend as the population ages, yet also becomes more wealthy.
