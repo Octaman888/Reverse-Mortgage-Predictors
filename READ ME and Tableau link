@@ -19,6 +19,9 @@ Tableau findings/indications/demonstrations verified by P values in Logistic reg
 
 RM accounted for %.2 of all mortgages for 2020 in Bexar County, indicating huge untapped potential in now and in coming years as baby boomer population continues to  reach the age of 62.
 
+Please start with the colab Python coding for indications of relevant information in Bexar county 2020 mortgage applications file.
+Then proceed to Tableau project for visual representation of refinement of relavent predictive information.
+
 Tableau Link:
 https://public.tableau.com/views/ReverseMortgagePredictionsTableau/RMpredictionsagevalue?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
